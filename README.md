@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Olá 👋, sou Ronald Gabriel</h1>
+<h1 align="center">Olá, sou Ronald Gabriel</h1>
 <h3 align="center">Apaixonado Por Front-end e BI</h3>
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=gabrielnine&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielnine" /> </p>
