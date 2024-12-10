@@ -13,7 +13,6 @@
 
 - ⚡ Fato engraçado **Eu realmente gosto de Js**
 
-<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 </p>
 
