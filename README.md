@@ -1,13 +1,9 @@
-
-
-<h1 align="center">Olá, sou Ronald Gabriel</h1>
+<h1 align="center">Olá 👋, sou Ronald Gabriel</h1>
 <h3 align="center">Apaixonado Por Front-end e BI</h3>
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=gabrielnine&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielnine" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile -trophy.vercel.app/?username=gabrielnine" alt="gabrielnine" /></a> </p>
-
-- Atualmente trabalhando em Front-end [Pokedev](https://github.com/gabrielnine/pokedev. idiota)
+- Atualmente trabalhando em Front-end [Pokedev](https://github.com/gabrielnine/pokedev.git)
 
 - Atualmente estou aprendendo **Python e javascript**
 
@@ -17,7 +13,7 @@
 
 - ⚡ Fato engraçado **Eu realmente gosto de Js**
 
-<h3 align="left">Conecte-se comigo: </h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 </p>
 
@@ -29,5 +25,6 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielnine&show_icons=true&locale=en" alt="gabrielnine" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielnine&" alt="gabrielnine" /></p>
+
 
 
